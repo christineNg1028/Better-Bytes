@@ -4,7 +4,7 @@
 
 Welcome to the Better Bytes Healthy Alternative program!
 
-In this program, you can enter your favourite baking recipes and compile them into a <u>recipe book</u>. When you add ingredients, the <u>unhealthy ones are detected</u> and you are able to swap them with <u>alternatives</u> to increase the nutritional value of your overall recipe.
+In this program, you can enter your favourite baking recipes and compile them into a <u>recipe book</u>. When you add ingredients, the <u>unhealthy ones are detected</u> and you are able to swap them with <u>alternatives</u> to increase the nutritional value of your overall recipe. This saves you the time from having to do your own research!
 
 
 
