@@ -1,6 +1,6 @@
 # Better Bytes 
 
-![](C:\Users\chris\OneDrive\Pictures\betterBytesLogo.jpg)
+![](https://github.com/christineNg1028/Better-Bytes/blob/master/betterBytesLogo.jpg)
 
 Welcome to the Better Bytes Healthy Alternative program!
 
@@ -20,7 +20,7 @@ Before you open the program, it is recommended that you have a .txt file ready f
 
 On this screen, you will see two buttons, a “New Recipe” button, and a “Recipe Book” button. If this is the first opening of the program, there will not be any recipes in the recipe book, so it is recommended that you press the “New Recipe” button to add a recipe to the program’s temporary recipe book. To learn about the new recipe screen, see **New Recipe Screen**. If you have already added a recipe to the recipe book, then you have been brought back to this screen, giving you the option to either add another recipe once again or view the program’s recipe book that holds all the recipes you have added by pressing the “Recipe Book” button. To learn about the recipe book screen, see **Recipe Book Screen**.
 
-![](C:\Users\chris\OneDrive\Pictures\openingScreen.png)
+![](https://github.com/christineNg1028/Better-Bytes/blob/master/openingScreen.png)
 
 
 
@@ -30,7 +30,7 @@ On this screen, you will see a text box labeled “Recipe Name” along with a b
 
 Once you have finished adding all the ingredients for your recipe, you need to press the “Done” button to move on. If any of your ingredients are deemed unhealthy by the program, those ingredients will have red text and the button representing that ingredient will enable. You can’t move on from this screen until you have made a choice regarding all of the highlighted ingredients. To make a choice, you must press one of the unhealthy ingredient buttons and make a choice between the original ingredient and three other alternative ingredient buttons. These alternative ingredients will have small paragraphs below them along with the original ingredient to explain the pros and cons of using the ingredient as well as the measurement change that comes with substituting with that ingredient. Some ingredients have the same alternatives, for ex. Caster Sugar and Granulated Sugar. You verify your choice by pressing select and then continue until all the red buttons become disabled (meaning you can’t press them anymore). Once all of the buttons are disabled, the program will send you directly to the comparison screen and to learn more about it, see **Comparison Screen**.
 
-![](C:\Users\chris\OneDrive\Pictures\newRecipeScreen.png)
+![](https://github.com/christineNg1028/Better-Bytes/blob/master/newRecipeScreen.png)
 
 
 
@@ -46,7 +46,7 @@ On this screen, you will see both versions of your recipe. On the left, you will
 
 On this screen, the table of contents holds all the recipes that you have saved. You can press the “Back” button to return to the **Opening Screen**. Pressing the “Clear All Recipes” button will remove all existing recipes from the recipe book. The table of contents is made up of buttons with the same names as the recipes you have created. If you would like to view a recipe you’ve made, save it to a pre-existing .txt file, or remove it from the recipe book, you need to press the recipe name to access the recipe screen. To learn more about the recipe screen, see **Recipe Screen**.
 
-![](C:\Users\chris\OneDrive\Pictures\recipeBookScreen.png)
+![](https://github.com/christineNg1028/Better-Bytes/blob/master/recipeBookScreen.png)
 
 
 
@@ -54,7 +54,7 @@ On this screen, the table of contents holds all the recipes that you have saved.
 
 On this screen, you will be able to see your saved recipe with the choices you have made regarding the healthy alternatives. You can save this recipe to a pre-existing .txt file by pressing the “Save to File” button, which will open a file chooser window. You can save multiple recipes to the same file, *which is then stored in the directory no matter where you put it!* You can also remove the recipe from the book if you wish by pressing the “Remove from Recipe Book” button. If you have decided that you do not want to save to file or remove from recipe book then there is a “Back” button just like in the recipe book screen that will send you back to the **Recipe Book Screen** where you can continue to use the program without having to close it and lose your progress on creating your recipe list.
 
-![](C:\Users\chris\OneDrive\Pictures\recipeScreen.png)
+![](https://github.com/christineNg1028/Better-Bytes/blob/master/recipeScreen.png)
 
 
 
