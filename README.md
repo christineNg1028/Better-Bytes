@@ -38,7 +38,7 @@ Once you have finished adding all the ingredients for your recipe, you need to p
 
 On this screen, you will see both versions of your recipe. On the left, you will see the original recipe that you entered and on the right, you will see your new recipe with the alternatives in the place of the old unhealthy ingredients. Below the two versions of the recipe, you will see a statement that says the caloric difference between the original and modified recipes (modified may be more, less, or the same calories). Once you have had the chance to look over your new recipe, you can either save the recipe to the recipe book by pressing the “Save to Recipe Book” button, or you can discard the recipe and return to opening by pressing “Back”. After saving to recipe book, you will be sent back to the opening screen where you can add another recipe or you can view your recipe book. See the **Opening Screen** portion to learn more about the recipe book button.
 
-![](C:\Users\chris\OneDrive\Pictures\comparisonScreen.png)
+![](https://github.com/christineNg1028/Better-Bytes/blob/master/comparisonScreen.png)
 
 
 
